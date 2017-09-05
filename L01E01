@@ -1,0 +1,35 @@
+#include <stdio.h>
+
+int main (){
+    int num;
+    float media;
+
+    printf("Digite o primeiro numero:\n");
+    scanf("%d" , &num);
+    media= (media + num);
+    num=0;
+
+    printf("Digite o segundo numero:\n");
+    scanf("%d" , &num);
+    media= (media + num);
+    num=0;
+
+    printf("Digite o terceiro numero:\n");
+    scanf("%d" , &num);
+    media= (media + num);
+    num=0;
+
+    printf("Digite o quarto numero:\n");
+    scanf("%d" , &num);
+    media= (media + num);
+    num=0;
+
+    printf("Digite o quinto numero:\n");
+    scanf("%d" , &num);
+    media= (media + num)/ 5;
+    num=0;
+
+    printf ("A media e: %f", media);
+
+    return 0;
+}
