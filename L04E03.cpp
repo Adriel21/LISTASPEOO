@@ -27,7 +27,7 @@ int main(){
 
 	printf("\n\n");
 	
-	for(i=0; i<n1; i++){
+	for(i=0; i<n2; i++){
 		printf("Digite o valor da posicao %d do segundo vetor: ", i+1);
 		scanf("%d", &v2[i]);
 
