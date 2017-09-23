@@ -40,7 +40,7 @@ return 0;
 
 void junta( int v1[], int v2[] , int n1, int n2){
     int i, n3, *v3;
-    int j=0;
+    int j;
     n3= n1+n2;
 	v3= malloc(n3*sizeof(int));
 
@@ -48,11 +48,10 @@ void junta( int v1[], int v2[] , int n1, int n2){
 		v3[i]=v1[i];
 	}
 
-	for(i=n1; i<n3; i++){
-		while( j<j+1){
-			v3[i]=v2[j];
-        j++;
-		}
+	for(i=n1, j=0; i<n3; i++, j++){
+
+		v3[i]=v2[j];
+
 	}
 
 	for(i=0; i<n3; i++){
