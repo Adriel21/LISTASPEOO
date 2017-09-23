@@ -26,11 +26,12 @@ int main(){
 
 	for (i=0; i<tamanho; i++){
         printf("Dia: ");
-		scanf("%d\n", &data[i].dia);
-        printf("Mes: ");
-		scanf("%d\n", &data[i].mes);
-		printf("Ano: ");
-		scanf("%d\n\n", &data[i].ano);
+		scanf("%d", &data[i].dia);
+        printf("\nMes: ");
+		scanf("%d", &data[i].mes);
+		printf("\nAno: ");
+		scanf("%d", &data[i].ano);
+		printf("\n\n");
 
 	}
 	ordenacao(data, tamanho);
