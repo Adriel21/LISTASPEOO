@@ -1,3 +1,10 @@
+/*Questão 3. Escreva um programa que lê uma string de até 50 caracteres, e imprime “Palindromo”
+(uma palavra ou frase, que é igual quando lida da esquerda para a direita ou da direita para a
+esquerda) caso a string seja um palindromo e “Nao Palindromo”caso contrário. Exemplo de
+palindromo: saudavel leva duas.
+Autor: Adriel Araujo
+-Estudante de Ciencias da Computação UECE 2016.2 - 1422340*/
+
 #include <stdio.h>
 #include <string.h>
 
