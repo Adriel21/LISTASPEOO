@@ -1,3 +1,14 @@
+/*Questão 2. Suponha que criamos uma estrutura para armazenar Datas:
+struct Data{
+int dia;
+int mes;
+int ano;
+};
+Implemente um algoritmo que receba um vetor de Datas como parâmetro e que retorne as datas em
+ordem cronológica (crie uma função com cabeçalho: void ordena(struct Data vet[], int tam).
+Autor: Adriel Araujo
+-Estudante de Ciencias da Computação UECE 2016.2 - 1422340*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
