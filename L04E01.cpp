@@ -1,3 +1,18 @@
+/*Questão 1. Suponha que criamos uma estrutura para armazenar dados de pessoas e um vetor para
+armazenar
+dados de várias pessoas:
+struct Pessoa{
+int rg;
+int cpf;
+char nome[80];
+};
+struct Pessoa cadastro[100];
+Suponha que o vetor esteja ordenado em ordem crescente por valor de RG. Implemente uma função
+de busca por RG, que opera como a busca binária, e que caso exista uma pessoa no cadastro com o
+RG a ser buscado, devolve o índice deste cadastro e caso não exista o RG a ser buscado, devolve -1.
+Autor: Adriel Araujo
+- Estudante de Ciencias da Computação pela UECE 2016.2 - 1422340*/
+
 #include <stdio.h>
 
 int busca( int valor, int vetor[], int tam){
