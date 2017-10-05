@@ -1,3 +1,11 @@
+/*Questão 3. Crie uma função que receba como parâmetros dois vetores de inteiros, v1 e v2, e as suas
+respectivas quantidades de elementos, n1 e n2. A função deverá retornar um ponteiro para um
+terceiro vetor, v3, com capacidade para (n1 + n2) elementos, alocado dinamicamente, contendo a
+união de v1 e v2. Por exemplo, se v1 = {11, 13, 45, 7} e v2 = {24, 4, 16, 81, 10, 12}, v3 irá conter
+{11, 13, 45, 7, 24, 4, 16, 81, 10, 12}.
+Autor: Adriel Araujo
+-Estudante de Ciencias da Computação UECE 2016.2 - 1422340*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
