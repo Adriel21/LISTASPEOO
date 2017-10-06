@@ -1,3 +1,9 @@
+/*Questão 2. Faça um programa que leia um arquivo texto contendo números inteiros, um número
+por linha, ordene os inteiros e escreva o resultado da ordenção em um novo arquivo texto, um
+número por linha.
+Autor: Adriel Araujo - Estudante de Ciencias da Computação pela UECE - 1422340
+*/
+
 #include <stdio.h>
 #include<stdlib.h>
 
