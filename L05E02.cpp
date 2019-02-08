@@ -1,8 +1,13 @@
-/*Questão 2. Faça um programa que leia um arquivo texto contendo números inteiros, um número
+/*Questão 2: Faça um programa que leia um arquivo texto contendo números inteiros, um número
 por linha, ordene os inteiros e escreva o resultado da ordenção em um novo arquivo texto, um
 número por linha.
-Autor: Adriel Araujo - Estudante de Ciencias da Computação pela UECE - 1422340
-*/
+Question 2: Make a program that reads a text file containing integers, one number per line, 
+sorts the integers, and writes the result of the sorting into a new text file, one number per 
+line.
+
+Autor/Author: Adriel Araujo
+-Estudante de Ciencias da Computação UECE 2016.2 - 1422340
+-Computer Science student in Ceara State University*/
 
 #include <stdio.h>
 #include<stdlib.h>
