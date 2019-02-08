@@ -1,8 +1,13 @@
-/*Quest„o 3. FaÁa uma funÁ„o que receba como par‚metros um vetor de inteiros e o tamanho lÛgico
-do vetor e modifique este vetor de maneira que todos os n˙meros divisÌveis por 2 ocorram antes dos n˙meros n„o divisÌveis por 2.
-Autor: Adriel Araujo
--Estudante de Ciencias da ComputaÁ„o UECE 2016.2 - 1422340
-Fortaleza-Ce- Brasil*/
+/*Quest√£o 3: Fa√ßa uma fun√ß√£o que receba como par√¢metros um vetor de inteiros e o tamanho l√≥gico
+do vetor e modifique este vetor de maneira que todos os n√∫meros divis√≠veis por 2 ocorram antes 
+dos n√∫meros n√£o divis√≠veis por 2.
+Question 3: Make a function that takes as parameters an integer vector and the logical size of 
+the vector and modify this vector so that all numbers divisible by 2 occur before the numbers 
+not divisible by 2.
+
+Autor/Author: Adriel Araujo
+-Estudante de Ciencias da Computa√ß√£o UECE 2016.2 - 1422340
+-Computer Science student in Ceara State University*/
 
 #include <stdio.h>
 
