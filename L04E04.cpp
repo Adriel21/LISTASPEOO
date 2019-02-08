@@ -1,8 +1,13 @@
-/*Questão 4. Escreva um programa em linguagem C que solicita ao usuário a quantidade de alunos
+/*Questão 4: Escreva um programa em linguagem C que solicita ao usuário a quantidade de alunos
 de uma turma e aloca um vetor de notas (números reais). Depois de ler as notas, imprime a média
 aritmética.
-Autor: Adriel Araujo
--Estudante de Ciencias da Computação UECE 2016.2 - 1422340*/
+Question 4: Write a C language program that asks the user for the number of students
+of a class and allocates a vector of notes (real numbers). After reading the notes, print the average
+arithmetic.
+
+Autor/Author: Adriel Araujo
+-Estudante de Ciencias da Computação UECE 2016.2 - 1422340
+-Computer Science student in Ceara State University*/
 
 #include <stdio.h>
 
