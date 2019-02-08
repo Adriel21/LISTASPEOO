@@ -1,8 +1,7 @@
-/*Questão 3. Faça uma função que receba como parâmetros um vetor de inteiros e o tamanho lógico
-do vetor e modifique este vetor de maneira que todos os números divisíveis por 2 ocorram antes dos números não divisíveis por 2.
-Autor: Adriel Araujo
--Estudante de Ciencias da Computação UECE 2016.2 - 1422340
-Fortaleza-Ce- Brasil*/
+/*Autor/Author: Adriel Araujo
+-Estudante de Ciencias da ComputaÃ§Ã£o UECE 2016.2 - 1422340
+-Computer Science student in Ceara State University*/
+
 #include <stdio.h>
 int main(){
 	int i, continua, aux, n, cont=0, c2=0;
