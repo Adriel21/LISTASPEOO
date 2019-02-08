@@ -1,7 +1,10 @@
-/*Questão 1. Escreva um programa que leia 5 números inteiros e imprima a média aritmética destes 5
+/*Questão 1: Escreva um programa que leia 5 números inteiros e imprima a média aritmética destes 5
 números, usando apenas duas variáveis.
-Autor: Adriel Araujo
--Estudante de Ciencias da Computação UECE 2016.2 - 1422340*/
+Question 1: Write a program that reads 5 integers and print the arithmetic mean of these 5 numbers 
+using only two variables.
+Autor/Author: Adriel Araujo
+-Estudante de Ciencias da Computação UECE 2016.2 - 1422340
+-Computer Science student in Ceara State University*/
 
 #include <stdio.h>
 
